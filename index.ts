@@ -1,0 +1,1 @@
+let salary:number=5277;  
